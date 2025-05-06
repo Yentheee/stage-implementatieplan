@@ -24,3 +24,4 @@
 ### Voldoen jullie aan GDPR, ISO 27001 of andere normen?
 - **Waarom:**  Beïnvloed de inrichting van de beveiliging
 - **Actie:** Zet Compliance Manager aan in Microsoft Purview
+- [Compliance Manager](./plannen/Gegevensbescherming%20en%20compliance.md#compliance-manager)
