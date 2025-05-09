@@ -18,7 +18,7 @@
 - **Actie:**
     - Device Control policies in Defender for Endpoint
     - Sophos Device Control 
-- [Device Control policies](./plannen/endpoint%20beveiliging.md###Device%20Control%20policies)
+- [Device Control policies](../plannen/endpoint%20beveiliging%20plan.md###Device%20Control%20policies)
 
 ### Hebben jullie zicht op bekende kwetsbaarheden in hardware/software?
 - **Waaarom:** Kwetsbaarheden zijn de toegangspoort voor exploits
