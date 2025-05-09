@@ -1,6 +1,13 @@
-### MFA
+## MFA
+#### instellen
+1. ga naar https://entra.microsoft.com
+2. Potection > Identity protection > Multifactor authentication registration policy
+3. Enable de policy
 
-### Entra ID protection
+
+
+
+## Entra ID protection
 #### instellen
 1. ga naar https://entra.microsoft.com
 2. Protection > Identity protection > Sign-in risk policy
