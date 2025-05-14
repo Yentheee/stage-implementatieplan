@@ -21,3 +21,12 @@
 
 ![impossible travel](image/authenticatieenidentiteit/impossible%20travel.png)
 ![alert impossible travel](image/authenticatieenidentiteit/alert%20impossible%20travel.png)
+
+
+
+#### PIM
+1. ga naar https://entra.microsoft.com
+2. Ga naar Identity governance > Privileged identity management
+3. Klik op "Microsoft Entra Roles"
+4. Klik op "Assign Eligibility"
+5. Kies hier een role en user die je PIM wilt maken
