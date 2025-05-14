@@ -15,6 +15,19 @@
 
 
 ### app-governance
+1. Ga naar https://security.microsoft.com/appgovernance
+2. Hier zie je een overzicht van de apps die toegang hebben tot de Microsoft 365-omgeving.
+- Je kan hier de toegangrechten van de apps beheren.
+
+
+### Conditional-access
+1. Ga naar https://entra.microsoft.com
+2. Ga naar Protection > Conditional access
+3. Maak een nieuwe policy aan
+- Je kan hier de policy zo inrichten dat het voldoet aan de eisen die je hebt. Dit kan bijvoorbeeld zijn dat je MFA moet gebruiken of dat je alleen toegang krijgt als je op een bepaalde locatie bent.
+
+
+
 
 ### data-loss-prevention
 1. Ga naar https://purview.microsoft.com
