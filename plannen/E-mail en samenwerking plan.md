@@ -59,7 +59,5 @@ Microsoft detecteert spoofing automatisch via:
    - Links worden realtime opnieuw gescand op moment van klikken
    - Beschermt tegen links die achteraf schadelijk worden
 
-
-
 [sophos email protection](https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/EmailSecurity/EmailSecurityPolicy/index.html)
 
