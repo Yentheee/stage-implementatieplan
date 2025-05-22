@@ -2,7 +2,7 @@
 [vragen](./vragen/authenticaite%20en%20Identiteit.md)
 
 # Endpoint security
-[vragen](./vragen/endpoint%20security.md)
+[vragen](./vragen/endpoint%20beveiliging.md)
 
 # E-mail & samenwerking
 [vragen](./vragen/e-mail%20en%20samenwerking.md)
