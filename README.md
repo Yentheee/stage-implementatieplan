@@ -15,3 +15,6 @@
 
 # Detectie
 [vragen](./vragen/detectie.md)
+
+# Sophos samen met Microsoft Defender
+[Sophos + Defender](./vragen/sophos%20en%20defender.md)
