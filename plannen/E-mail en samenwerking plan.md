@@ -101,6 +101,7 @@ Als je dit script uitvoert in PowerShell, worden er automatisch spoofed sender t
 
 #### testen
 Ga naar https://security.microsoft.com/tenantAllowBlockLis en kijk dan of de Spoofed senders zijn toegevoegd.
+
 ---
 
 ## Sophos Email Security
