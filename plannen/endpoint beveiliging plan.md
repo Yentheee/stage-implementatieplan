@@ -8,6 +8,9 @@
     - voer het script uit op het apparaat
 4. Controleer onder devices of het apparaat succesvol verbonden is
 
+voer dit script uit: [onboard script](../extra/WindowsDefenderATPLocalOnboardingScript.cmd)
+
+
 ##### testen
 om te testen of het apparaat goed is verbonden kun je dit volgende script uitvoeren op het apparaat in PowerShell:
 ```powershell
