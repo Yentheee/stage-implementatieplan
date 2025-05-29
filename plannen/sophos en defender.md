@@ -37,3 +37,4 @@ Als het niet in passive mode staat, kan je dit doen door het volgende commando u
 Set-MpPreference -PassiveMode $true
 ```
 
+---
