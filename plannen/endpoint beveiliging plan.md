@@ -20,6 +20,8 @@ Als je dan bij incidents en alerts ga kijken, komt er een nieuwe melding.
 
 ![test alert](image/endpointbeveiligingplan/test%20alert.png)
 
+---
+
 ### ASR rules
 1. Ga naar https://intune.microsoft.com/
 2. Ga naar Endpoint security > Attack surface reduction
@@ -29,6 +31,7 @@ Als je dan bij incidents en alerts ga kijken, komt er een nieuwe melding.
 6. Kies wat je wilt doen met de policy en voeg de juiste groep toe waar je dit op wilt toepassen
 7. Sla de policy op en activeer deze
 
+---
 
 ### Device Control policies
 
@@ -45,6 +48,8 @@ Dit kun je ook doen in https://security.microsoft.com/
 
 verschil is dat je via purview kunt instellen welke data er niet op de usb mag komen en dat je via security.microsoft.com alleen kan instellen dat het niet mag (dat het alles blokkeert) naar niet goedkgekeurde devices.
 
+---
+
 ### Threat and Vulnerability Management
 1. Ga naar https://security.microsoft.com/
 2. Ga naar endpoints > Vulnerability management > Dashboard
@@ -54,7 +59,7 @@ verschil is dat je via purview kunt instellen welke data er niet op de usb mag k
     - Beveiligingsadviezen
     - Prioritering op basis van risico en impact
 
-
+---
 
 #### Secure Score
 1. Ga naar https://security.microsoft.com/
