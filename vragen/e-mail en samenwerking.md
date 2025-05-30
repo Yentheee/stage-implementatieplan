@@ -3,6 +3,7 @@
 ### Hoe controleren jullie inkomende e-mails op malware en phishing?
 - **Waarom:** De meeste aanvallen starten via e-mail
 - **Actie:** Zet Safe Attachments en Safe Links aan in Microsoft Defender for Office 365 
+
 [Safe Attachments](../plannen/E-mail%20en%20samenwerking%20plan.md#safe-attachments)
 [Safe Links](../plannen/E-mail%20en%20samenwerking%20plan.md#safe-links)
 
