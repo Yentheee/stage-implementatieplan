@@ -3,14 +3,16 @@
 ### Maakt u gebruik van MFA voor alle gebruikers?
 - **Waarom:** MFA vermindert het risico bij gestolen wachtwoorden
 - **Actie:** Configureer Azure MFA via Condition Access Policies (zet eventueel SSO aan)
-- [MFA](../plannen/authenticatie%20en%20identiteit%20plan.md###MFA)
+
+[MFA](../plannen/authenticatie%20en%20identiteit%20plan.md###MFA)
 
 ---
 
 ### Hoe wordt er bepaald of een login verdacht is? Gebruiken jullie login- en gebruikersrisicodetectie?
 - **Waarom:** Veel aanvaller zijn niet zichtbaar aan de oppervlakte, maar tonen zich via afwijkend gedrag
 - **Actie:** Gebruik Microsoft Entra ID Protection om inlog- en gebruikersrisico's automatisch te detecteren
-- [Entra ID Protection](../plannen/authenticatie%20en%20identiteit%20plan.md###Entra%20ID%20Protection)
+
+[Entra ID Protection](../plannen/authenticatie%20en%20identiteit%20plan.md###Entra%20ID%20Protection)
 
 ---
 

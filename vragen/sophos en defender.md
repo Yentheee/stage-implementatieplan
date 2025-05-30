@@ -37,6 +37,7 @@ Ook in passive mode blijft Microsoft Defender bruikbaar voor:
 ---
 
 ##### Configuratie
+
 [instellen + uitleg](../plannen/sophos%20en%20defender.md)
 
 ---
