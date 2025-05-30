@@ -22,6 +22,7 @@
 3. log opnieuw in met de user die je hebt ingesteld in de policy.
 
 ![impossible travel](image/authenticatieenidentiteit/impossible%20travel.png)
+
 ![alert impossible travel](image/authenticatieenidentiteit/alert%20impossible%20travel.png)
 
 ---
