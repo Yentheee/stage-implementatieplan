@@ -11,7 +11,7 @@
 [vragen](./vragen/Cloudgebruik%20en%20shadow%20it.md)
 
 # Gegevensbescherming & Compliance
-[vragen](./vragen/gegevensbescherming%20en%20compliance.md)
+[vragen](./vragen/Gegevensbescherming%20en%20compliance.md)
 
 # Detectie
 [vragen](./vragen/detectie.md)
